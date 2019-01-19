@@ -1,4 +1,5 @@
-lass CreateDogs < ActiveRecord::Migration
+
+class CreateDogs < ActiveRecord::Migration
   def up
   end
  
